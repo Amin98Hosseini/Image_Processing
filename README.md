@@ -1,6 +1,6 @@
 ## Image Processing With Python And OpenCv
 
-![opencv]('https://editor.analyticsvidhya.com/uploads/869691_JQofwNWO5ancK5ug2ezDgw.png')
+![opencv](https://editor.analyticsvidhya.com/uploads/869691_JQofwNWO5ancK5ug2ezDgw.png)
 
 *	Author:     Amin Hosseini
 *	WebSite:    https://www.elecomp-tech.ir
